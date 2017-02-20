@@ -3,7 +3,7 @@ CONTIKI_PROJECT = cc26xx-demo
 
 all: $(CONTIKI_PROJECT)
 
-CONTIKI_WITH_IPV6 = 1
-
+#CONTIKI_WITH_IPV6 = 1
+CONTIKI_WITH_RIME = 1
 CONTIKI = ../..
 include $(CONTIKI)/Makefile.include
