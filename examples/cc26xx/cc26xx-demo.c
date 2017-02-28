@@ -50,6 +50,9 @@
 PROCESS(example_broadcast_process, "Broadcast example");
 AUTOSTART_PROCESSES(&example_broadcast_process);
 /*---------------------------------------------------------------------------*/
+int reads[10];
+int cnt = 0;
+int avg = 0;
 static void
 broadcast_recv(struct broadcast_conn *c, const linkaddr_t *from)
 {
@@ -57,12 +60,14 @@ broadcast_recv(struct broadcast_conn *c, const linkaddr_t *from)
   printf("broadcast message received from %d.%d: '%s'\n",
 	 from->u8[0], from->u8[1], (char *)packetbuf_dataptr());
   */
+
   //packetbuf_attr_t rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI);
   int rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI) - 65535;
   printf("%d\n", rssi);
   // printf("broadcast message received from %d.%d: '%s', %d  \n",
   //         from->u8[0], from->u8[1], (char *)packetbuf_dataptr(), 
   //         rssi);
+
 
 }
 static const struct broadcast_callbacks broadcast_call = {broadcast_recv};
@@ -76,7 +81,7 @@ PROCESS_THREAD(example_broadcast_process, ev, data)
 
   PROCESS_BEGIN();
 
-  broadcast_open(&broadcast, 129, &broadcast_call);
+  broadcast_open(&broadcast, 140, &broadcast_call);
 
   while(1) {
 
