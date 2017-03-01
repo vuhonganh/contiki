@@ -1,4 +1,6 @@
-all: broadcast-example unicast-sender unicast-receiver
+#all: broadcast-example unicast-sender unicast-receiver  #default: not working srec cat problem
+all: broadcast-example.bin unicast-sender.bin unicast-receiver.bin
+
 APPS=servreg-hack
 CONTIKI=../../..
 

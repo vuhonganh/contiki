@@ -62,25 +62,14 @@ broadcast_recv(struct broadcast_conn *c, const linkaddr_t *from)
   printf("broadcast message received from %d.%d: '%s'\n",
 	 from->u8[0], from->u8[1], (char *)packetbuf_dataptr());
   */
-  // packetbuf_attr_t rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI);
-  int rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI) - 65535;
-  printf("broadcast message received from %d.%d: '%s', \n%d\n",
-          from->u8[0], from->u8[1], (char *)packetbuf_dataptr(), 
-          rssi);
-  reads[cnt] = rssi;
-  cnt++;
 
-  if (cnt == 10)
-  {
-    cnt = 0;    
-    for (int i = 0; i < 10; i++)
-    {
-      avg += reads[i];
-    }
-    avg /= 10;
-    printf("avg = %d\n", avg);
-    avg = 0;
-  }
+  //packetbuf_attr_t rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI);
+  int rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI) - 65535;
+  printf("%d\n", rssi);
+  // printf("broadcast message received from %d.%d: '%s', %d  \n",
+  //         from->u8[0], from->u8[1], (char *)packetbuf_dataptr(), 
+  //         rssi);
+
 
 }
 static const struct broadcast_callbacks broadcast_call = {broadcast_recv};
@@ -99,8 +88,10 @@ PROCESS_THREAD(example_broadcast_process, ev, data)
   while(1) {
 
     /* Delay 2-4 seconds */
-    // etimer_set(&et, CLOCK_SECOND * 4 + random_rand() % (CLOCK_SECOND * 4));
-    etimer_set(&et, CLOCK_SECOND/10);
+    //etimer_set(&et, CLOCK_SECOND * 4 + random_rand() % (CLOCK_SECOND * 4));
+    
+    /* Delay 1s */
+    etimer_set(&et, CLOCK_SECOND);
 
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));
 
