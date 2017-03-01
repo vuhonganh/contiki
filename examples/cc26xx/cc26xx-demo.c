@@ -46,6 +46,8 @@
 #include "dev/leds.h"
 
 #include <stdio.h>
+#include "node-id.h"
+
 /*---------------------------------------------------------------------------*/
 PROCESS(example_broadcast_process, "Broadcast example");
 AUTOSTART_PROCESSES(&example_broadcast_process);
@@ -105,6 +107,7 @@ PROCESS_THREAD(example_broadcast_process, ev, data)
     packetbuf_copyfrom("who?", 6);
     broadcast_send(&broadcast);
     //printf("broadcast message sent\n");
+    //printf("my node id is: %d\n", node_id);  //only use for cooja
   }
 
   PROCESS_END();
