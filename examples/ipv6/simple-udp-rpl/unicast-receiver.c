@@ -47,10 +47,12 @@
 #include <string.h>
 
 #define UDP_PORT 1234
-#define SERVICE_ID 190
+#define SERVICE_ID 137
 
-#define SEND_INTERVAL		(10 * CLOCK_SECOND)
-#define SEND_TIME		(random_rand() % (SEND_INTERVAL))
+// #define SEND_INTERVAL		(10 * CLOCK_SECOND)
+#define SEND_INTERVAL   (2 * CLOCK_SECOND)
+// #define SEND_TIME		(random_rand() % (SEND_INTERVAL))
+#define SEND_TIME   CLOCK_SECOND
 
 static struct simple_udp_connection unicast_connection;
 
@@ -119,9 +121,11 @@ create_rpl_dag(uip_ipaddr_t *ipaddr)
 /*---------------------------------------------------------------------------*/
 PROCESS_THREAD(unicast_receiver_process, ev, data)
 {
+  
   uip_ipaddr_t *ipaddr;
 
   PROCESS_BEGIN();
+  printf("im receiver");
 
   servreg_hack_init();
 
@@ -134,8 +138,10 @@ PROCESS_THREAD(unicast_receiver_process, ev, data)
   simple_udp_register(&unicast_connection, UDP_PORT,
                       NULL, UDP_PORT, receiver);
 
-  while(1) {
+  while(1) 
+  {
     PROCESS_WAIT_EVENT();
+    printf("im receiver");
   }
   PROCESS_END();
 }

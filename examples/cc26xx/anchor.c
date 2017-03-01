@@ -46,7 +46,7 @@
 #include "dev/leds.h"
 
 #include <stdio.h>
-#include "node-id.h"
+
 #define CC26XX_DEMO_LEDS_REBOOT         LEDS_ALL
 #define CC26XX_DEMO_LEDS_PERIODIC       LEDS_YELLOW
 
@@ -57,9 +57,6 @@ AUTOSTART_PROCESSES(&example_broadcast_process);
 int reads[10];
 int cnt = 0;
 int avg = 0;
-
-int anchor_ids[3];
-
 static void
 broadcast_recv(struct broadcast_conn *c, const linkaddr_t *from)
 {
@@ -89,18 +86,36 @@ PROCESS_THREAD(example_broadcast_process, ev, data)
   PROCESS_BEGIN();
 
   broadcast_open(&broadcast, 140, &broadcast_call);
-  leds_on(CC26XX_DEMO_LEDS_REBOOT);
-  while(1) {
+  printf("At start: Im anchor. My rime addr is %d \n", linkaddr_node_addr);
+  // leds_toggle(CC26XX_DEMO_LEDS_PERIODIC);
+  // leds_toggle(CC26XX_DEMO_LEDS_PERIODIC);
+  // leds_toggle(CC26XX_DEMO_LEDS_PERIODIC);
+  while(1) 
+  {
+    // leds_on(CC26XX_DEMO_LEDS_REBOOT);
+    // leds_toggle(CC26XX_DEMO_LEDS_PERIODIC);
 
     /* Delay 2-4 seconds */
     //etimer_set(&et, CLOCK_SECOND * 4 + random_rand() % (CLOCK_SECOND * 4));
     
     /* Delay 1s */
-    etimer_set(&et, CLOCK_SECOND);
+    etimer_set(&et, CLOCK_SECOND + random_rand() % (2 * CLOCK_SECOND));
 
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));
 
-    packetbuf_copyfrom("anchor", 6);
+    leds_on(CC26XX_DEMO_LEDS_REBOOT);
+    etimer_set(&et, CLOCK_SECOND/8);
+    PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));    
+    leds_off(CC26XX_DEMO_LEDS_REBOOT);
+
+    //int anchor_addr;
+    // anchor_addr = (int) linkaddr_node_addr;
+    
+    // packetbuf_copyfrom("anchor", 6);
+    char str[15];
+    sprintf(str, "%d", linkaddr_node_addr);
+
+    packetbuf_copyfrom(str, 6);
     broadcast_send(&broadcast);
     printf("Im anchor. My rime addr is %d \n", linkaddr_node_addr);
     //printf("broadcast message sent\n");

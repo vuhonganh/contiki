@@ -47,10 +47,12 @@
 #include <string.h>
 
 #define UDP_PORT 1234
-#define SERVICE_ID 190
+#define SERVICE_ID 137  // it has to be the service id of the receiver 
 
-#define SEND_INTERVAL		(60 * CLOCK_SECOND)
-#define SEND_TIME		(random_rand() % (SEND_INTERVAL))
+// #define SEND_INTERVAL		(60 * CLOCK_SECOND)
+#define SEND_INTERVAL   (2 * CLOCK_SECOND)
+// #define SEND_TIME		(random_rand() % (SEND_INTERVAL))
+#define SEND_TIME  CLOCK_SECOND
 
 static struct simple_udp_connection unicast_connection;
 
@@ -109,7 +111,8 @@ PROCESS_THREAD(unicast_sender_process, ev, data)
                       NULL, UDP_PORT, receiver);
 
   etimer_set(&periodic_timer, SEND_INTERVAL);
-  while(1) {
+  while(1) 
+  {
 
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
     etimer_reset(&periodic_timer);
@@ -117,7 +120,8 @@ PROCESS_THREAD(unicast_sender_process, ev, data)
 
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&send_timer));
     addr = servreg_hack_lookup(SERVICE_ID);
-    if(addr != NULL) {
+    if(addr != NULL) 
+    {
       static unsigned int message_number;
       char buf[20];
 
@@ -127,7 +131,9 @@ PROCESS_THREAD(unicast_sender_process, ev, data)
       sprintf(buf, "Message %d", message_number);
       message_number++;
       simple_udp_sendto(&unicast_connection, buf, strlen(buf) + 1, addr);
-    } else {
+    } 
+    else 
+    {
       printf("Service %d not found\n", SERVICE_ID);
     }
   }
