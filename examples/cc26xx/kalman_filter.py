@@ -15,6 +15,12 @@ K = []
 
 # reads the file and filters the values
 def FilterFile(arg):
+	# creates empty lists for Kalman
+	xpost = []
+	xprior = []
+	Pprior = []
+	Ppost = []
+	K = []
 	rssi = []
 	i = 0
 

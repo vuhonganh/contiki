@@ -62,7 +62,7 @@
   int anchor_ids[NB_ANCHOR] = { 0 };
   int rssi_vals[NB_ANCHOR];
   bool anchor_is_set[NB_ANCHOR] = { 0 };
-  
+  int counter = 1;
   static void
   broadcast_recv(struct broadcast_conn *c, const linkaddr_t *from)
   {
@@ -73,7 +73,9 @@
 
     //packetbuf_attr_t rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI);
     int rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI) - 65535;
-    // printf("%d\n", rssi);
+    // printf("%d,%d,%d,%d,#\n", counter, rssi, rssi-2, rssi-4);
+    // counter++;
+    //return;
     // printf("broadcast message received from %d.%d: '%s', %d  \n",
     //         from->u8[0], from->u8[1], (char *)packetbuf_dataptr(), 
     //         rssi);
@@ -164,11 +166,12 @@
     if (all_set)
     {
       // printf("a tuple is ready below:\n");
-      printf("%d %d %d\n", rssi_vals[0], rssi_vals[1], rssi_vals[2]);
+      printf("%d,%d,%d,%d,#\n", counter, rssi_vals[0], rssi_vals[1], rssi_vals[2]);
       for (int i = 0; i < NB_ANCHOR; ++i)
       {
         anchor_is_set[i] = false;
       }
+      counter++;
     }
 
   }
