@@ -48,26 +48,21 @@
   #include <stdio.h>
   #include <stdlib.h>
   #include "node-id.h"
-  #define CC26XX_DEMO_LEDS_REBOOT         LEDS_ALL
-  #define CC26XX_DEMO_LEDS_PERIODIC       LEDS_YELLOW
+  
+  #define NB_ANCHOR 3
 
   /*---------------------------------------------------------------------------*/
   PROCESS(example_broadcast_process, "Broadcast example");
   AUTOSTART_PROCESSES(&example_broadcast_process);
   /*---------------------------------------------------------------------------*/
 
-  int nb_anchors = 3;
-  int anchor_ids[3] = {33877, 400, 32833};
-  int rssi_vals[3];
-  bool anchor_is_set[3] = {false, false, false};
-
-  // anchor_ids[0] = 33877;
-  // anchor_ids[1] = 400;
-  // anchor_ids[2] = 32833;
-  // anchor_is_set[0] = false;
-  // anchor_is_set[1] = false;
-  // anchor_is_set[2] = false;
-
+  //int nb_anchor = 3;
+  // int anchor_ids[3] = {33877, 400, 32833};
+  // int anchor_ids[3] = {403, 1184, 1726};
+  int anchor_ids[NB_ANCHOR] = { 0 };
+  int rssi_vals[NB_ANCHOR];
+  bool anchor_is_set[NB_ANCHOR] = { 0 };
+  
   static void
   broadcast_recv(struct broadcast_conn *c, const linkaddr_t *from)
   {
@@ -83,95 +78,98 @@
     //         from->u8[0], from->u8[1], (char *)packetbuf_dataptr(), 
     //         rssi);
     int id_received = atoi(((char *)packetbuf_dataptr()));
-    printf("id received is %d \n", id_received);
-    printf("%d%d: '%s', %d  \n",
-            from->u8[0], from->u8[1], (char *)packetbuf_dataptr(),rssi);
+    // printf("id received is %d \n", id_received);
+    // printf("%d%d: '%s', %d  \n",
+    //         from->u8[0], from->u8[1], (char *)packetbuf_dataptr(),rssi);
 
-    int idx = 0;
-    for (int i = 0; i < nb_anchors; ++i)
-    {
-      if (id_received == anchor_ids[i])
-      {
-        idx = i;        
-        break;
-      }
-    }
-    rssi_vals[idx] = rssi;
-    anchor_is_set[idx] = true;
+    // START HARD CODED PART
 
-    int nb_node_set = 0;
-    for (int i = 0; i < nb_anchors; ++i)
-    {
-      if (anchor_is_set[i] == true)
-      {
-        nb_node_set++;
-      }
-    }
-
-    printf("nb node set so far: %d\n", nb_node_set);
-    if (nb_node_set == 3)
-    {
-      printf("a tuple is ready below:\n");
-      printf("%d %d %d\n", rssi_vals[0], rssi_vals[1], rssi_vals[2]);
-      for (int i = 0; i < nb_anchors; ++i)
-      {
-        anchor_is_set[i] = false;
-      }
-    }
-
-    // for (int i = 0; i < nb_anchors; ++i)
+    // int idx = 0;
+    // for (int i = 0; i < nb_anchor; ++i)
     // {
-      
-    //   if (anchor_ids[i] == 0)  // first time running
+    //   if (id_received == anchor_ids[i])
     //   {
-    //     bool set_to_previous = false;
-    //     for (int j = 0; j < i; ++j)
-    //     {
-    //       if (anchor_ids[j] == id_received)
-    //       {
-    //         set_to_previous = true;
-    //       }
-    //     }
-    //     if (set_to_previous == false)
-    //     {
-    //       anchor_ids[i] = id_received;
-    //       rssi_vals[i] = rssi;
-    //       anchor_is_set[i] = true;
-    //       //printf("break\n");
-    //       break;  
-    //     }        
-    //   }
-    //   else if (anchor_ids[i] == id_received)  // update with the latest rssi value
-    //   {
-    //     rssi_vals[i] = rssi;
-    //     anchor_is_set[i] = true;
+    //     idx = i;        
+    //     break;
     //   }
     // }
-    // //printf("after break\n");
-    // bool all_set = true;
+    // rssi_vals[idx] = rssi;
+    // anchor_is_set[idx] = true;
+
     // int nb_node_set = 0;
-    // for (int i = 0; i < nb_anchors; ++i)
+    // for (int i = 0; i < nb_anchor; ++i)
     // {
-    //   if (anchor_is_set[i] == false)
-    //   {
-    //     all_set = false;
-    //     //break;
-    //   }
-    //   else
+    //   if (anchor_is_set[i] == true)
     //   {
     //     nb_node_set++;
     //   }
     // }
-    // printf("nb of node set so far is %d\n", nb_node_set);
-    // if (all_set)
+
+    // printf("nb node set so far: %d\n", nb_node_set);
+    // if (nb_node_set == 3)
     // {
     //   printf("a tuple is ready below:\n");
     //   printf("%d %d %d\n", rssi_vals[0], rssi_vals[1], rssi_vals[2]);
-    //   for (int i = 0; i < nb_anchors; ++i)
+    //   for (int i = 0; i < nb_anchor; ++i)
     //   {
     //     anchor_is_set[i] = false;
     //   }
     // }
+
+    // END HARD CODED PART
+
+    for (int i = 0; i < NB_ANCHOR; ++i)
+    {
+      
+      if (anchor_ids[i] == 0)  // first time running
+      {
+        bool set_to_previous = false;
+        for (int j = 0; j < i; ++j)
+        {
+          if (anchor_ids[j] == id_received)
+          {
+            set_to_previous = true;
+          }
+        }
+        if (set_to_previous == false)
+        {
+          anchor_ids[i] = id_received;
+          rssi_vals[i] = rssi;
+          anchor_is_set[i] = true;
+          printf("node %d (rime addr = %d) is set\n", i, id_received);
+          //printf("break\n");
+          break;  
+        }        
+      }
+      else if (anchor_ids[i] == id_received)  // update with the latest rssi value
+      {
+        rssi_vals[i] = rssi;
+        anchor_is_set[i] = true;
+      }
+    }
+    bool all_set = true;
+    int nb_node_set = 0;
+    for (int i = 0; i < NB_ANCHOR; ++i)
+    {
+      if (anchor_is_set[i] == false)
+      {
+        all_set = false;
+      }
+      else
+      {
+        nb_node_set++;
+      }
+    }
+    // printf("nb of node set so far is %d\n", nb_node_set);
+    if (all_set)
+    {
+      // printf("a tuple is ready below:\n");
+      printf("%d %d %d\n", rssi_vals[0], rssi_vals[1], rssi_vals[2]);
+      for (int i = 0; i < NB_ANCHOR; ++i)
+      {
+        anchor_is_set[i] = false;
+      }
+    }
 
   }
   static const struct broadcast_callbacks broadcast_call = {broadcast_recv};
@@ -179,17 +177,6 @@
   /*---------------------------------------------------------------------------*/
   PROCESS_THREAD(example_broadcast_process, ev, data)
   {
-    // for (int i = 0; i < nb_anchors; ++i)
-    // {
-    //   anchor_ids[i] = 0;
-    //   anchor_is_set[i] = false;
-    // }
-    // anchor_ids[0] = 33877;
-    // anchor_ids[1] = 400;
-    // anchor_ids[2] = 32833;
-    // anchor_is_set[0] = false;
-    // anchor_is_set[1] = false;
-    // anchor_is_set[2] = false;
 
     static struct etimer et;
 
@@ -200,19 +187,16 @@
     broadcast_open(&broadcast, 140, &broadcast_call);
 
     while(1) {
-      // leds_on(CC26XX_DEMO_LEDS_REBOOT);
-      // leds_toggle(CC26XX_DEMO_LEDS_PERIODIC);
-      /* Delay 2-4 seconds */
-      //etimer_set(&et, CLOCK_SECOND * 4 + random_rand() % (CLOCK_SECOND * 4));
-      
-      /* Delay 1s */
-      etimer_set(&et, CLOCK_SECOND);
+
+      /* Delay 0.5s */
+      etimer_set(&et, CLOCK_SECOND/2);
 
       PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));
-      leds_on(CC26XX_DEMO_LEDS_PERIODIC);
-      etimer_set(&et, CLOCK_SECOND/8);
+      leds_on(LEDS_ALL);
+      etimer_set(&et, CLOCK_SECOND/32);
       PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));    
-      leds_off(CC26XX_DEMO_LEDS_PERIODIC);
+      leds_off(LEDS_ALL);
+      
       //packetbuf_copyfrom("bs", 6);
       //broadcast_send(&broadcast);
       //printf("Im bs. My rime addr is %d \n", linkaddr_node_addr);

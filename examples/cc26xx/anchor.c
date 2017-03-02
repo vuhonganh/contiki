@@ -47,9 +47,6 @@
 
 #include <stdio.h>
 
-#define CC26XX_DEMO_LEDS_REBOOT         LEDS_ALL
-#define CC26XX_DEMO_LEDS_PERIODIC       LEDS_YELLOW
-
 /*---------------------------------------------------------------------------*/
 PROCESS(example_broadcast_process, "Broadcast example");
 AUTOSTART_PROCESSES(&example_broadcast_process);
@@ -66,11 +63,11 @@ broadcast_recv(struct broadcast_conn *c, const linkaddr_t *from)
   */
 
   //packetbuf_attr_t rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI);
-  int rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI) - 65535;
-  printf("%d\n", rssi);
-  printf("broadcast message received from %d.%d: '%s', %d  \n",
-          from->u8[0], from->u8[1], (char *)packetbuf_dataptr(), 
-          rssi);
+  // int rssi = packetbuf_attr(PACKETBUF_ATTR_RSSI) - 65535;
+  // printf("%d\n", rssi);
+  // printf("broadcast message received from %d.%d: '%s', %d  \n",
+  //         from->u8[0], from->u8[1], (char *)packetbuf_dataptr(), 
+  //         rssi);
 
 
 }
@@ -86,7 +83,7 @@ PROCESS_THREAD(example_broadcast_process, ev, data)
   PROCESS_BEGIN();
 
   broadcast_open(&broadcast, 140, &broadcast_call);
-  printf("At start: Im anchor. My rime addr is %d \n", linkaddr_node_addr);
+  // printf("At start: Im anchor. My rime addr is %d \n", linkaddr_node_addr);
   // leds_toggle(CC26XX_DEMO_LEDS_PERIODIC);
   // leds_toggle(CC26XX_DEMO_LEDS_PERIODIC);
   // leds_toggle(CC26XX_DEMO_LEDS_PERIODIC);
@@ -95,18 +92,21 @@ PROCESS_THREAD(example_broadcast_process, ev, data)
     // leds_on(CC26XX_DEMO_LEDS_REBOOT);
     // leds_toggle(CC26XX_DEMO_LEDS_PERIODIC);
 
-    /* Delay 2-4 seconds */
+    /* Delay 2-4 seconds */  //below is not true 
     //etimer_set(&et, CLOCK_SECOND * 4 + random_rand() % (CLOCK_SECOND * 4));
     
-    /* Delay 1s */
-    etimer_set(&et, CLOCK_SECOND + random_rand() % (2 * CLOCK_SECOND));
+    /* Delay 1s */ //below is not true
+    // etimer_set(&et, CLOCK_SECOND + random_rand() % (2 * CLOCK_SECOND));
+
+    // delay 0.5 - 1.5 second
+    etimer_set(&et, (CLOCK_SECOND + (random_rand() % 3) * CLOCK_SECOND)/2);
 
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));
 
-    leds_on(CC26XX_DEMO_LEDS_REBOOT);
-    etimer_set(&et, CLOCK_SECOND/8);
+    leds_on(LEDS_YELLOW);
+    etimer_set(&et, CLOCK_SECOND/64);
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));    
-    leds_off(CC26XX_DEMO_LEDS_REBOOT);
+    leds_off(LEDS_YELLOW);
 
     //int anchor_addr;
     // anchor_addr = (int) linkaddr_node_addr;
@@ -117,7 +117,7 @@ PROCESS_THREAD(example_broadcast_process, ev, data)
 
     packetbuf_copyfrom(str, 6);
     broadcast_send(&broadcast);
-    printf("Im anchor. My rime addr is %d \n", linkaddr_node_addr);
+    //printf("Im anchor. My rime addr is %d \n", linkaddr_node_addr);
     //printf("broadcast message sent\n");
     //printf("my node id is: %d\n", node_id);  //only use for cooja
   }
