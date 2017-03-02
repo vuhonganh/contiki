@@ -3,7 +3,7 @@ from collections import deque
 import matplotlib.pyplot as plt
 import csv
 
-fname = "test_onl3.txt"
+fname = "test_onl4.txt"
 
 max_length = 20  # plot only 20 latest data points
 
@@ -12,8 +12,9 @@ sigma = 0.8
 gamma = 0.000001
 
 # default posi of anchors
-x_default = np.array([0.0, 200.0, 200.0])
-y_default = np.array([0.0, 0.0, 200.0])
+edge_length = 150.0
+x_default = np.array([0.0, edge_length, edge_length])
+y_default = np.array([0.0, 0.0, edge_length])
 
 # q1 = deque(maxlen = max_length)
 # filtered1 = deque(maxlen = max_length)
@@ -29,7 +30,7 @@ def kalman_online(fn, x_1, P_1, time_stamp):
 		for row in reader:
 			if len(row) == 5:  # contain a marker # at the end meaning the line is complete
 				if row[0] == cur_time:
-					print(row)
+					#print(row)
 					for i in range(3):
 						rssi = float(row[i + 1])
 						K = P_1[i] / (P_1[i] + sigma)
@@ -63,8 +64,10 @@ def trilateration(dists, x_anchors=x_default, y_anchors=y_default):
 			A[id_row, 0] = x_anchors[j] - x_anchors[i]
 			A[id_row, 1] = y_anchors[j] - y_anchors[i]
 			b[id_row] = d_sq[i] - x_sq_p_y_sq[i] + x_sq_p_y_sq[j] - d_sq[j]
+			id_row += 1
 
 	point, residual, _, _ = np.linalg.lstsq(2 * A, b)
+	print np.linalg.lstsq(2 * A, b)
 	if residual:
 		return point, residual[0]
 	else:
@@ -72,11 +75,12 @@ def trilateration(dists, x_anchors=x_default, y_anchors=y_default):
 
 
 def test_trilateration():
-	x = np.array([0, 0, 1])
-	y = np.array([0, 1, 1])
-	d = np.array([1, np.sqrt(2), 1])
+	x = np.array([0, 1, 1])
+	y = np.array([0, 0, 1])
+	# d = np.array([1, np.sqrt(2), 1])
+	d = np.array([np.sqrt(5)/2.0, np.sqrt(5)/2.0, 1/2.0])
 
-	point, resi = trilateration(x, y, d)	
+	point, resi = trilateration(d, x, y)	
 	print(point)
 
 
@@ -119,4 +123,4 @@ if __name__ == "__main__":
 			print(point)
 			point_in_time.append(point)
 			time_stamp = new_time_stamp	
-		plt.pause(1)
+		plt.pause(0.5)
