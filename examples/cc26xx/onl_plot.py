@@ -38,8 +38,47 @@ def kalman_online(fn, x_1, P_1, time_stamp):
 	return x_1, P_1, time_stamp
 
 
+def trilateration(x_anchors, y_anchors, dists):
+	"""
+	input:
+		x_anchors: np array of x-coordinate of anchors
+		y_anchors: np array of y-coordinate of anchors
+	   	dists: np array of dist from corresponding anchor to the node
+		(x, y): the coordinate of the node
+   	"""
+   	nb_anchors = len(dists)
+   	x_sq_p_y_sq = x_anchors * x_anchors + y_anchors * y_anchors   	
+   	d_sq = dists * dists
+
+   	nb_pair = (nb_anchors * (nb_anchors - 1)) / 2
+   	A = np.zeros((nb_pair, 2))
+   	b = np.zeros(nb_pair)
+   	id_row = 0
+	for i in range(nb_anchors - 1):
+		for j in range(i + 1, nb_anchors):
+			A[id_row, 0] = x_anchors[j] - x_anchors[i]
+			A[id_row, 1] = y_anchors[j] - y_anchors[i]
+			b[id_row] = d_sq[i] - x_sq_p_y_sq[i] + x_sq_p_y_sq[j] - d_sq[j]
+
+	point, residual, rank, _ = np.linalg.lstsq(2 * A, b)
+	
+	return point, residual
+
+
+def test_trilateration():
+	x = np.array([0, 0, 1])
+	y = np.array([0, 1, 1])
+	d = np.array([1, np.sqrt(2), 1])
+
+	point, resi = trilateration(x, y, d)
+	if resi:
+		print('error is: ', np.sqrt(resi[0]))
+	print(point)
+
+
 
 if __name__ == "__main__":
+	test_trilateration()
 	x_1 = [0.0, 0.0, 0.0]  # init for state
 	P_1 = [1000.0, 1000.0, 1000.0]  # init for variance 
 	time_stamp = 1
