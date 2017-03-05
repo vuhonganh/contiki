@@ -1,0 +1,8084 @@
+using saved target 'srf06-cc26xx'
+../../tools/sky/serialdump-linux -b115200 /dev/ttyACM1
+¶úÏ.Œ—£ÕþÍ/¨þŒ¶þÆ.þ„—§…A-40
+char anchor name = A
+received from anchor A rssi = -40
+A-40
+char anchor name = A
+received from anchor A rssi = -40
+A-40
+char anchor name = A
+received from anchor A rssi = -40
+C-43
+char anchor name = C
+received from anchor C rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-43
+char anchor name = C
+received from anchor C rssi = -43
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+C-43
+char anchor name = C
+received from anchor C rssi = -43
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-48
+char anchor name = A
+received from anchor A rssi = -48
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-46
+char anchor name = A
+received from anchor A rssi = -46
+A-46
+char anchor name = A
+received from anchor A rssi = -46
+B-38
+char anchor name = B
+1,-46,-38,-44,#
+received from anchor B rssi = -38
+C-43
+char anchor name = C
+received from anchor C rssi = -43
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+C-43
+char anchor name = C
+received from anchor C rssi = -43
+B-38
+char anchor name = B
+2,-42,-38,-43,#
+received from anchor B rssi = -38
+C-43
+char anchor name = C
+received from anchor C rssi = -43
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+C-43
+char anchor name = C
+received from anchor C rssi = -43
+B-50
+char anchor name = B
+3,-42,-50,-43,#
+received from anchor B rssi = -50
+C-43
+char anchor name = C
+received from anchor C rssi = -43
+C-41
+char anchor name = C
+received from anchor C rssi = -41
+A-40
+char anchor name = A
+received from anchor A rssi = -40
+C-43
+char anchor name = C
+received from anchor C rssi = -43
+B-40
+char anchor name = B
+4,-40,-40,-43,#
+received from anchor B rssi = -40
+A-39
+char anchor name = A
+received from anchor A rssi = -39
+B-41
+char anchor name = B
+received from anchor B rssi = -41
+C-46
+char anchor name = C
+5,-39,-41,-46,#
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+B-56
+char anchor name = B
+received from anchor B rssi = -56
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-39
+char anchor name = A
+6,-39,-46,-46,#
+received from anchor A rssi = -39
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-42
+char anchor name = C
+received from anchor C rssi = -42
+B-46
+char anchor name = B
+7,-43,-46,-42,#
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-42
+char anchor name = C
+received from anchor C rssi = -42
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-38
+char anchor name = C
+received from anchor C rssi = -38
+A-54
+char anchor name = A
+8,-54,-46,-38,#
+received from anchor A rssi = -54
+C-32
+char anchor name = C
+received from anchor C rssi = -32
+B-30
+char anchor name = B
+received from anchor B rssi = -30
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-32
+char anchor name = C
+received from anchor C rssi = -32
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-57
+char anchor name = B
+received from anchor B rssi = -57
+B-57
+char anchor name = B
+received from anchor B rssi = -57
+A-52
+char anchor name = A
+9,-52,-57,-32,#
+received from anchor A rssi = -52
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-53
+char anchor name = B
+received from anchor B rssi = -53
+C-37
+char anchor name = C
+10,-55,-53,-37,#
+received from anchor C rssi = -37
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+B-53
+char anchor name = B
+received from anchor B rssi = -53
+C-41
+char anchor name = C
+received from anchor C rssi = -41
+C-41
+char anchor name = C
+received from anchor C rssi = -41
+A-43
+char anchor name = A
+11,-43,-53,-41,#
+received from anchor A rssi = -43
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+B-43
+char anchor name = B
+received from anchor B rssi = -43
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-41
+char anchor name = C
+received from anchor C rssi = -41
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+A-50
+char anchor name = A
+12,-50,-47,-40,#
+received from anchor A rssi = -50
+B-44
+char anchor name = B
+received from anchor B rssi = -44
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-42
+char anchor name = C
+13,-54,-44,-42,#
+received from anchor C rssi = -42
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+B-43
+char anchor name = B
+received from anchor B rssi = -43
+A-58
+char anchor name = A
+14,-58,-43,-46,#
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+C-40
+char anchor name = C
+15,-44,-51,-40,#
+received from anchor C rssi = -40
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+C-40
+char anchor name = C
+16,-44,-55,-40,#
+received from anchor C rssi = -40
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-41
+char anchor name = C
+17,-43,-47,-41,#
+received from anchor C rssi = -41
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-41
+char anchor name = C
+18,-43,-47,-41,#
+received from anchor C rssi = -41
+C-41
+char anchor name = C
+received from anchor C rssi = -41
+C-41
+char anchor name = C
+received from anchor C rssi = -41
+C-41
+char anchor name = C
+received from anchor C rssi = -41
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-41
+char anchor name = C
+received from anchor C rssi = -41
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+A-43
+char anchor name = A
+19,-43,-55,-41,#
+received from anchor A rssi = -43
+A-41
+char anchor name = A
+received from anchor A rssi = -41
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-41
+char anchor name = C
+20,-41,-50,-41,#
+received from anchor C rssi = -41
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+A-43
+char anchor name = A
+21,-43,-51,-40,#
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+B-49
+char anchor name = B
+22,-43,-49,-40,#
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-40
+char anchor name = C
+23,-43,-49,-40,#
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-49
+char anchor name = B
+24,-43,-49,-40,#
+received from anchor B rssi = -49
+C-41
+char anchor name = C
+received from anchor C rssi = -41
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-40
+char anchor name = C
+received from anchor C rssi = -40
+A-43
+char anchor name = A
+25,-43,-51,-40,#
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-47
+char anchor name = A
+received from anchor A rssi = -47
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+B-42
+char anchor name = B
+received from anchor B rssi = -42
+B-43
+char anchor name = B
+received from anchor B rssi = -43
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+B-43
+char anchor name = B
+received from anchor B rssi = -43
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+B-43
+char anchor name = B
+received from anchor B rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-46
+char anchor name = A
+received from anchor A rssi = -46
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-44
+char anchor name = C
+26,-46,-47,-44,#
+received from anchor C rssi = -44
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-45
+char anchor name = A
+received from anchor A rssi = -45
+C-47
+char anchor name = C
+27,-45,-47,-47,#
+received from anchor C rssi = -47
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-44
+char anchor name = B
+28,-43,-44,-47,#
+received from anchor B rssi = -44
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+A-43
+char anchor name = A
+29,-43,-50,-48,#
+received from anchor A rssi = -43
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+B-42
+char anchor name = B
+received from anchor B rssi = -42
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+A-46
+char anchor name = A
+30,-46,-42,-48,#
+received from anchor A rssi = -46
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-51
+char anchor name = C
+31,-43,-47,-51,#
+received from anchor C rssi = -51
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+32,-43,-46,-44,#
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-44
+char anchor name = C
+33,-43,-46,-44,#
+received from anchor C rssi = -44
+C-43
+char anchor name = C
+received from anchor C rssi = -43
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-42
+char anchor name = A
+34,-42,-46,-43,#
+received from anchor A rssi = -42
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-43
+char anchor name = A
+35,-43,-49,-45,#
+received from anchor A rssi = -43
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-45
+char anchor name = C
+36,-43,-46,-45,#
+received from anchor C rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+C-44
+char anchor name = C
+37,-42,-46,-44,#
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-44
+char anchor name = C
+38,-43,-52,-44,#
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-44
+char anchor name = C
+39,-43,-47,-44,#
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+B-47
+char anchor name = B
+40,-43,-47,-44,#
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+41,-43,-47,-44,#
+received from anchor A rssi = -43
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-47
+char anchor name = B
+42,-43,-47,-44,#
+received from anchor B rssi = -47
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-47
+char anchor name = B
+43,-43,-47,-44,#
+received from anchor B rssi = -47
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-47
+char anchor name = B
+44,-43,-47,-44,#
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-42
+char anchor name = A
+45,-42,-47,-44,#
+received from anchor A rssi = -42
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-47
+char anchor name = B
+46,-43,-47,-44,#
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-42
+char anchor name = A
+47,-42,-46,-45,#
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-46
+char anchor name = B
+48,-43,-46,-44,#
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-42
+char anchor name = A
+49,-42,-46,-45,#
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+B-46
+char anchor name = B
+50,-42,-46,-45,#
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-45
+char anchor name = C
+51,-42,-46,-45,#
+received from anchor C rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+C-45
+char anchor name = C
+52,-42,-46,-45,#
+received from anchor C rssi = -45
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-42
+char anchor name = A
+53,-42,-46,-45,#
+received from anchor A rssi = -42
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+C-46
+char anchor name = C
+54,-42,-46,-46,#
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-42
+char anchor name = A
+55,-42,-46,-45,#
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-45
+char anchor name = C
+56,-42,-46,-45,#
+received from anchor C rssi = -45
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+B-46
+char anchor name = B
+57,-42,-46,-45,#
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-43
+char anchor name = A
+58,-43,-46,-45,#
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+B-46
+char anchor name = B
+59,-43,-46,-45,#
+received from anchor B rssi = -46
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-46
+char anchor name = B
+60,-43,-46,-45,#
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+A-43
+char anchor name = A
+61,-43,-46,-46,#
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+B-46
+char anchor name = B
+62,-43,-46,-46,#
+received from anchor B rssi = -46
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-45
+char anchor name = C
+63,-43,-46,-45,#
+received from anchor C rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+A-43
+char anchor name = A
+64,-43,-46,-46,#
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-45
+char anchor name = C
+65,-43,-46,-45,#
+received from anchor C rssi = -45
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-46
+char anchor name = B
+66,-43,-46,-45,#
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-42
+char anchor name = A
+67,-42,-46,-45,#
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+B-46
+char anchor name = B
+68,-42,-46,-45,#
+received from anchor B rssi = -46
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-45
+char anchor name = C
+69,-43,-46,-45,#
+received from anchor C rssi = -45
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-42
+char anchor name = C
+received from anchor C rssi = -42
+C-42
+char anchor name = C
+received from anchor C rssi = -42
+B-46
+char anchor name = B
+70,-43,-46,-42,#
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-42
+char anchor name = B
+received from anchor B rssi = -42
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-43
+char anchor name = A
+71,-43,-42,-45,#
+received from anchor A rssi = -43
+B-40
+char anchor name = B
+received from anchor B rssi = -40
+B-38
+char anchor name = B
+received from anchor B rssi = -38
+B-36
+char anchor name = B
+received from anchor B rssi = -36
+B-40
+char anchor name = B
+received from anchor B rssi = -40
+B-37
+char anchor name = B
+received from anchor B rssi = -37
+B-37
+char anchor name = B
+received from anchor B rssi = -37
+B-37
+char anchor name = B
+received from anchor B rssi = -37
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+A-41
+char anchor name = A
+72,-41,-37,-46,#
+received from anchor A rssi = -41
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+B-40
+char anchor name = B
+received from anchor B rssi = -40
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-42
+char anchor name = A
+73,-42,-50,-46,#
+received from anchor A rssi = -42
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-46
+char anchor name = A
+74,-46,-50,-57,#
+received from anchor A rssi = -46
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+B-53
+char anchor name = B
+received from anchor B rssi = -53
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-42
+char anchor name = C
+received from anchor C rssi = -42
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-57
+char anchor name = B
+received from anchor B rssi = -57
+A-43
+char anchor name = A
+75,-43,-57,-49,#
+received from anchor A rssi = -43
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+B-44
+char anchor name = B
+received from anchor B rssi = -44
+A-44
+char anchor name = A
+76,-44,-44,-46,#
+received from anchor A rssi = -44
+A-45
+char anchor name = A
+received from anchor A rssi = -45
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+B-52
+char anchor name = B
+77,-45,-52,-48,#
+received from anchor B rssi = -52
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-47
+char anchor name = B
+78,-43,-47,-51,#
+received from anchor B rssi = -47
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+A-44
+char anchor name = A
+79,-44,-48,-51,#
+received from anchor A rssi = -44
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+B-48
+char anchor name = B
+80,-44,-48,-51,#
+received from anchor B rssi = -48
+A-45
+char anchor name = A
+received from anchor A rssi = -45
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+A-45
+char anchor name = A
+received from anchor A rssi = -45
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+C-71
+char anchor name = C
+received from anchor C rssi = -71
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-51
+char anchor name = B
+81,-44,-51,-50,#
+received from anchor B rssi = -51
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+82,-43,-51,-53,#
+received from anchor C rssi = -53
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-51
+char anchor name = B
+83,-43,-51,-53,#
+received from anchor B rssi = -51
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-51
+char anchor name = B
+84,-43,-51,-53,#
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-43
+char anchor name = A
+85,-43,-51,-53,#
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+86,-43,-51,-53,#
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-50
+char anchor name = B
+87,-43,-50,-53,#
+received from anchor B rssi = -50
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-43
+char anchor name = A
+88,-43,-50,-53,#
+received from anchor A rssi = -43
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-55
+char anchor name = C
+received from anchor C rssi = -55
+C-55
+char anchor name = C
+received from anchor C rssi = -55
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-43
+char anchor name = A
+89,-43,-51,-53,#
+received from anchor A rssi = -43
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-43
+char anchor name = A
+90,-43,-50,-53,#
+received from anchor A rssi = -43
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-50
+char anchor name = B
+91,-43,-50,-53,#
+received from anchor B rssi = -50
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+92,-43,-51,-53,#
+received from anchor C rssi = -53
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-53
+char anchor name = C
+93,-43,-50,-53,#
+received from anchor C rssi = -53
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-43
+char anchor name = A
+94,-43,-50,-52,#
+received from anchor A rssi = -43
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+95,-44,-52,-53,#
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-45
+char anchor name = A
+received from anchor A rssi = -45
+A-45
+char anchor name = A
+received from anchor A rssi = -45
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-45
+char anchor name = A
+received from anchor A rssi = -45
+B-49
+char anchor name = B
+96,-45,-49,-53,#
+received from anchor B rssi = -49
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+97,-44,-51,-53,#
+received from anchor C rssi = -53
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-51
+char anchor name = B
+98,-43,-51,-54,#
+received from anchor B rssi = -51
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-54
+char anchor name = C
+99,-43,-50,-54,#
+received from anchor C rssi = -54
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-54
+char anchor name = C
+100,-43,-50,-54,#
+received from anchor C rssi = -54
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-50
+char anchor name = B
+101,-43,-50,-54,#
+received from anchor B rssi = -50
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-54
+char anchor name = C
+102,-43,-49,-54,#
+received from anchor C rssi = -54
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-49
+char anchor name = B
+103,-43,-49,-54,#
+received from anchor B rssi = -49
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-53
+char anchor name = C
+104,-44,-50,-53,#
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+B-50
+char anchor name = B
+105,-44,-50,-53,#
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+C-53
+char anchor name = C
+106,-44,-50,-53,#
+received from anchor C rssi = -53
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-43
+char anchor name = A
+107,-43,-50,-56,#
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+B-49
+char anchor name = B
+108,-43,-49,-54,#
+received from anchor B rssi = -49
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-43
+char anchor name = A
+109,-43,-50,-56,#
+received from anchor A rssi = -43
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-43
+char anchor name = B
+received from anchor B rssi = -43
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-43
+char anchor name = A
+110,-43,-43,-53,#
+received from anchor A rssi = -43
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-43
+char anchor name = B
+received from anchor B rssi = -43
+A-43
+char anchor name = A
+111,-43,-43,-53,#
+received from anchor A rssi = -43
+A-43
+char anchor name = A
+received from anchor A rssi = -43
+B-41
+char anchor name = B
+received from anchor B rssi = -41
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+C-56
+char anchor name = C
+112,-42,-41,-56,#
+received from anchor C rssi = -56
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+C-58
+char anchor name = C
+received from anchor C rssi = -58
+B-43
+char anchor name = B
+received from anchor B rssi = -43
+A-46
+char anchor name = A
+113,-46,-43,-58,#
+received from anchor A rssi = -46
+B-43
+char anchor name = B
+received from anchor B rssi = -43
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+C-56
+char anchor name = C
+114,-44,-43,-56,#
+received from anchor C rssi = -56
+A-44
+char anchor name = A
+received from anchor A rssi = -44
+B-44
+char anchor name = B
+received from anchor B rssi = -44
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+A-42
+char anchor name = A
+received from anchor A rssi = -42
+B-43
+char anchor name = B
+received from anchor B rssi = -43
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+C-54
+char anchor name = C
+115,-42,-45,-54,#
+received from anchor C rssi = -54
+A-47
+char anchor name = A
+received from anchor A rssi = -47
+A-48
+char anchor name = A
+received from anchor A rssi = -48
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-46
+char anchor name = B
+116,-49,-46,-47,#
+received from anchor B rssi = -46
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-44
+char anchor name = B
+117,-49,-44,-47,#
+received from anchor B rssi = -44
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+118,-49,-45,-47,#
+received from anchor A rssi = -49
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-44
+char anchor name = B
+119,-49,-44,-47,#
+received from anchor B rssi = -44
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+120,-49,-45,-47,#
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-45
+char anchor name = B
+121,-49,-45,-47,#
+received from anchor B rssi = -45
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+122,-49,-45,-47,#
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-48
+char anchor name = A
+received from anchor A rssi = -48
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-48
+char anchor name = A
+received from anchor A rssi = -48
+B-45
+char anchor name = B
+123,-48,-45,-47,#
+received from anchor B rssi = -45
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+A-49
+char anchor name = A
+124,-49,-45,-46,#
+received from anchor A rssi = -49
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+125,-49,-46,-47,#
+received from anchor A rssi = -49
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+A-49
+char anchor name = A
+126,-49,-46,-45,#
+received from anchor A rssi = -49
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+C-47
+char anchor name = C
+127,-49,-46,-47,#
+received from anchor C rssi = -47
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+A-50
+char anchor name = A
+received from anchor A rssi = -50
+C-47
+char anchor name = C
+128,-50,-45,-47,#
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-50
+char anchor name = A
+received from anchor A rssi = -50
+A-50
+char anchor name = A
+received from anchor A rssi = -50
+A-50
+char anchor name = A
+received from anchor A rssi = -50
+B-45
+char anchor name = B
+129,-50,-45,-47,#
+received from anchor B rssi = -45
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-50
+char anchor name = A
+130,-50,-46,-47,#
+received from anchor A rssi = -50
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-45
+char anchor name = B
+131,-49,-45,-47,#
+received from anchor B rssi = -45
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+C-47
+char anchor name = C
+132,-49,-45,-47,#
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-45
+char anchor name = B
+133,-49,-45,-47,#
+received from anchor B rssi = -45
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-46
+char anchor name = B
+134,-49,-46,-47,#
+received from anchor B rssi = -46
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+135,-49,-46,-47,#
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+C-47
+char anchor name = C
+136,-49,-45,-47,#
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-50
+char anchor name = A
+137,-50,-46,-47,#
+received from anchor A rssi = -50
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-50
+char anchor name = A
+received from anchor A rssi = -50
+B-45
+char anchor name = B
+138,-50,-45,-47,#
+received from anchor B rssi = -45
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-47
+char anchor name = C
+139,-49,-46,-47,#
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+C-47
+char anchor name = C
+140,-49,-45,-47,#
+received from anchor C rssi = -47
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+A-49
+char anchor name = A
+141,-49,-46,-46,#
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-46
+char anchor name = B
+142,-49,-46,-47,#
+received from anchor B rssi = -46
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-44
+char anchor name = B
+received from anchor B rssi = -44
+B-44
+char anchor name = B
+received from anchor B rssi = -44
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-44
+char anchor name = B
+received from anchor B rssi = -44
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+143,-49,-44,-47,#
+received from anchor A rssi = -49
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-45
+char anchor name = B
+144,-49,-45,-47,#
+received from anchor B rssi = -45
+A-51
+char anchor name = A
+received from anchor A rssi = -51
+A-51
+char anchor name = A
+received from anchor A rssi = -51
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-46
+char anchor name = C
+145,-51,-46,-46,#
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+A-50
+char anchor name = A
+146,-50,-46,-46,#
+received from anchor A rssi = -50
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-50
+char anchor name = A
+received from anchor A rssi = -50
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+C-46
+char anchor name = C
+147,-49,-46,-46,#
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+A-49
+char anchor name = A
+148,-49,-46,-46,#
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-47
+char anchor name = C
+149,-54,-46,-47,#
+received from anchor C rssi = -47
+A-48
+char anchor name = A
+received from anchor A rssi = -48
+A-50
+char anchor name = A
+received from anchor A rssi = -50
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-43
+char anchor name = B
+received from anchor B rssi = -43
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-47
+char anchor name = C
+150,-49,-46,-47,#
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-44
+char anchor name = B
+received from anchor B rssi = -44
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+151,-49,-44,-47,#
+received from anchor A rssi = -49
+A-51
+char anchor name = A
+received from anchor A rssi = -51
+A-48
+char anchor name = A
+received from anchor A rssi = -48
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-45
+char anchor name = B
+152,-48,-45,-47,#
+received from anchor B rssi = -45
+B-45
+char anchor name = B
+received from anchor B rssi = -45
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+C-47
+char anchor name = C
+153,-49,-45,-47,#
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+B-43
+char anchor name = B
+154,-49,-43,-47,#
+received from anchor B rssi = -43
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-55
+char anchor name = A
+155,-55,-49,-53,#
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-48
+char anchor name = A
+received from anchor A rssi = -48
+A-48
+char anchor name = A
+received from anchor A rssi = -48
+B-48
+char anchor name = B
+156,-48,-48,-50,#
+received from anchor B rssi = -48
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-48
+char anchor name = A
+received from anchor A rssi = -48
+A-48
+char anchor name = A
+received from anchor A rssi = -48
+C-49
+char anchor name = C
+157,-48,-50,-49,#
+received from anchor C rssi = -49
+C-55
+char anchor name = C
+received from anchor C rssi = -55
+A-51
+char anchor name = A
+received from anchor A rssi = -51
+B-54
+char anchor name = B
+158,-51,-54,-55,#
+received from anchor B rssi = -54
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+A-51
+char anchor name = A
+received from anchor A rssi = -51
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+A-51
+char anchor name = A
+received from anchor A rssi = -51
+C-55
+char anchor name = C
+159,-51,-54,-55,#
+received from anchor C rssi = -55
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-55
+char anchor name = C
+received from anchor C rssi = -55
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-55
+char anchor name = C
+received from anchor C rssi = -55
+B-50
+char anchor name = B
+160,-58,-50,-55,#
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-55
+char anchor name = C
+received from anchor C rssi = -55
+C-55
+char anchor name = C
+received from anchor C rssi = -55
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-58
+char anchor name = A
+161,-58,-50,-55,#
+received from anchor A rssi = -58
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-67
+char anchor name = A
+received from anchor A rssi = -67
+C-50
+char anchor name = C
+162,-67,-50,-50,#
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-67
+char anchor name = A
+163,-67,-47,-50,#
+received from anchor A rssi = -67
+A-67
+char anchor name = A
+received from anchor A rssi = -67
+A-67
+char anchor name = A
+received from anchor A rssi = -67
+A-67
+char anchor name = A
+received from anchor A rssi = -67
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+C-49
+char anchor name = C
+164,-64,-49,-49,#
+received from anchor C rssi = -49
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-64
+char anchor name = A
+165,-64,-49,-50,#
+received from anchor A rssi = -64
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-69
+char anchor name = A
+received from anchor A rssi = -69
+A-72
+char anchor name = A
+received from anchor A rssi = -72
+B-47
+char anchor name = B
+166,-72,-47,-50,#
+received from anchor B rssi = -47
+A-69
+char anchor name = A
+received from anchor A rssi = -69
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-69
+char anchor name = A
+received from anchor A rssi = -69
+A-65
+char anchor name = A
+received from anchor A rssi = -65
+B-47
+char anchor name = B
+167,-65,-47,-50,#
+received from anchor B rssi = -47
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-67
+char anchor name = A
+168,-67,-47,-50,#
+received from anchor A rssi = -67
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-67
+char anchor name = A
+received from anchor A rssi = -67
+C-50
+char anchor name = C
+169,-67,-47,-50,#
+received from anchor C rssi = -50
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+A-63
+char anchor name = A
+170,-63,-48,-51,#
+received from anchor A rssi = -63
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-61
+char anchor name = A
+171,-61,-48,-50,#
+received from anchor A rssi = -61
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-74
+char anchor name = A
+172,-74,-46,-50,#
+received from anchor A rssi = -74
+A-74
+char anchor name = A
+received from anchor A rssi = -74
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-69
+char anchor name = A
+received from anchor A rssi = -69
+A-71
+char anchor name = A
+received from anchor A rssi = -71
+C-50
+char anchor name = C
+173,-71,-49,-50,#
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-71
+char anchor name = A
+received from anchor A rssi = -71
+B-50
+char anchor name = B
+174,-71,-50,-50,#
+received from anchor B rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-70
+char anchor name = A
+175,-70,-49,-50,#
+received from anchor A rssi = -70
+A-73
+char anchor name = A
+received from anchor A rssi = -73
+A-73
+char anchor name = A
+received from anchor A rssi = -73
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-50
+char anchor name = C
+176,-73,-49,-50,#
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-72
+char anchor name = A
+received from anchor A rssi = -72
+A-72
+char anchor name = A
+received from anchor A rssi = -72
+A-74
+char anchor name = A
+received from anchor A rssi = -74
+A-74
+char anchor name = A
+received from anchor A rssi = -74
+A-67
+char anchor name = A
+received from anchor A rssi = -67
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-49
+char anchor name = B
+177,-67,-49,-50,#
+received from anchor B rssi = -49
+A-67
+char anchor name = A
+received from anchor A rssi = -67
+A-67
+char anchor name = A
+received from anchor A rssi = -67
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-65
+char anchor name = A
+received from anchor A rssi = -65
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-65
+char anchor name = A
+received from anchor A rssi = -65
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-65
+char anchor name = A
+received from anchor A rssi = -65
+A-66
+char anchor name = A
+received from anchor A rssi = -66
+C-50
+char anchor name = C
+178,-66,-49,-50,#
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-66
+char anchor name = A
+179,-66,-49,-50,#
+received from anchor A rssi = -66
+A-66
+char anchor name = A
+received from anchor A rssi = -66
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-67
+char anchor name = A
+received from anchor A rssi = -67
+C-50
+char anchor name = C
+180,-67,-49,-50,#
+received from anchor C rssi = -50
+A-67
+char anchor name = A
+received from anchor A rssi = -67
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-66
+char anchor name = A
+received from anchor A rssi = -66
+B-49
+char anchor name = B
+181,-66,-49,-50,#
+received from anchor B rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-58
+char anchor name = A
+182,-58,-47,-48,#
+received from anchor A rssi = -58
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-47
+char anchor name = B
+183,-58,-47,-49,#
+received from anchor B rssi = -47
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-48
+char anchor name = B
+184,-58,-48,-49,#
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+A-57
+char anchor name = A
+185,-57,-48,-49,#
+received from anchor A rssi = -57
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+A-57
+char anchor name = A
+186,-57,-48,-49,#
+received from anchor A rssi = -57
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+A-57
+char anchor name = A
+187,-57,-48,-49,#
+received from anchor A rssi = -57
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-49
+char anchor name = C
+188,-57,-47,-49,#
+received from anchor C rssi = -49
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-60
+char anchor name = A
+189,-60,-48,-50,#
+received from anchor A rssi = -60
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+C-48
+char anchor name = C
+190,-60,-48,-48,#
+received from anchor C rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-48
+char anchor name = B
+191,-60,-48,-48,#
+received from anchor B rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+B-47
+char anchor name = B
+192,-61,-47,-48,#
+received from anchor B rssi = -47
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+B-47
+char anchor name = B
+193,-58,-47,-47,#
+received from anchor B rssi = -47
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-47
+char anchor name = C
+194,-59,-46,-47,#
+received from anchor C rssi = -47
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-49
+char anchor name = C
+195,-60,-46,-49,#
+received from anchor C rssi = -49
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-60
+char anchor name = A
+196,-60,-49,-49,#
+received from anchor A rssi = -60
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-49
+char anchor name = B
+197,-55,-49,-50,#
+received from anchor B rssi = -49
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-49
+char anchor name = B
+198,-55,-49,-50,#
+received from anchor B rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+C-50
+char anchor name = C
+199,-56,-49,-50,#
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-61
+char anchor name = A
+200,-61,-49,-50,#
+received from anchor A rssi = -61
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+B-49
+char anchor name = B
+201,-59,-49,-49,#
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-50
+char anchor name = C
+202,-54,-49,-50,#
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-49
+char anchor name = B
+203,-54,-49,-50,#
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-54
+char anchor name = A
+204,-54,-49,-50,#
+received from anchor A rssi = -54
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-50
+char anchor name = C
+205,-54,-49,-50,#
+received from anchor C rssi = -50
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+A-54
+char anchor name = A
+206,-54,-48,-50,#
+received from anchor A rssi = -54
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-50
+char anchor name = C
+207,-54,-48,-50,#
+received from anchor C rssi = -50
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-50
+char anchor name = C
+208,-53,-48,-50,#
+received from anchor C rssi = -50
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-50
+char anchor name = C
+209,-54,-48,-50,#
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-48
+char anchor name = B
+210,-55,-48,-50,#
+received from anchor B rssi = -48
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+A-69
+char anchor name = A
+received from anchor A rssi = -69
+A-69
+char anchor name = A
+received from anchor A rssi = -69
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-49
+char anchor name = B
+211,-61,-49,-48,#
+received from anchor B rssi = -49
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-48
+char anchor name = C
+212,-61,-48,-48,#
+received from anchor C rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-61
+char anchor name = A
+213,-61,-49,-49,#
+received from anchor A rssi = -61
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+B-49
+char anchor name = B
+214,-63,-49,-48,#
+received from anchor B rssi = -49
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+B-48
+char anchor name = B
+215,-63,-48,-48,#
+received from anchor B rssi = -48
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-48
+char anchor name = C
+216,-59,-47,-48,#
+received from anchor C rssi = -48
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+A-67
+char anchor name = A
+received from anchor A rssi = -67
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-46
+char anchor name = B
+217,-67,-46,-50,#
+received from anchor B rssi = -46
+A-69
+char anchor name = A
+received from anchor A rssi = -69
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+C-47
+char anchor name = C
+218,-64,-48,-47,#
+received from anchor C rssi = -47
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+B-44
+char anchor name = B
+received from anchor B rssi = -44
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+C-52
+char anchor name = C
+219,-64,-44,-52,#
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-58
+char anchor name = A
+220,-58,-49,-52,#
+received from anchor A rssi = -58
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-52
+char anchor name = C
+221,-59,-47,-52,#
+received from anchor C rssi = -52
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-65
+char anchor name = A
+received from anchor A rssi = -65
+B-47
+char anchor name = B
+222,-65,-47,-50,#
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-51
+char anchor name = A
+received from anchor A rssi = -51
+A-51
+char anchor name = A
+received from anchor A rssi = -51
+B-57
+char anchor name = B
+received from anchor B rssi = -57
+B-57
+char anchor name = B
+received from anchor B rssi = -57
+A-51
+char anchor name = A
+received from anchor A rssi = -51
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+C-56
+char anchor name = C
+223,-55,-54,-56,#
+received from anchor C rssi = -56
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-65
+char anchor name = B
+224,-54,-65,-48,#
+received from anchor B rssi = -65
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+C-48
+char anchor name = C
+225,-52,-55,-48,#
+received from anchor C rssi = -48
+C-48
+char anchor name = C
+received from anchor C rssi = -48
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+A-49
+char anchor name = A
+received from anchor A rssi = -49
+A-50
+char anchor name = A
+received from anchor A rssi = -50
+A0
+char anchor name = A
+received from anchor A rssi = 0
+B-56
+char anchor name = B
+226,0,-56,-52,#
+received from anchor B rssi = -56
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-46
+char anchor name = C
+received from anchor C rssi = -46
+C-44
+char anchor name = C
+received from anchor C rssi = -44
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-53
+char anchor name = A
+227,-53,-58,-44,#
+received from anchor A rssi = -53
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+C-45
+char anchor name = C
+received from anchor C rssi = -45
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-52
+char anchor name = A
+228,-52,-58,-47,#
+received from anchor A rssi = -52
+C-47
+char anchor name = C
+received from anchor C rssi = -47
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+B-58
+char anchor name = B
+229,-52,-58,-47,#
+received from anchor B rssi = -58
+C-27
+char anchor name = C
+received from anchor C rssi = -27
+C-26
+char anchor name = C
+received from anchor C rssi = -26
+B-53
+char anchor name = B
+received from anchor B rssi = -53
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+A-57
+char anchor name = A
+230,-57,-55,-26,#
+received from anchor A rssi = -57
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-34
+char anchor name = C
+received from anchor C rssi = -34
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-54
+char anchor name = B
+231,-58,-54,-57,#
+received from anchor B rssi = -54
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-58
+char anchor name = A
+232,-58,-54,-57,#
+received from anchor A rssi = -58
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+C-72
+char anchor name = C
+received from anchor C rssi = -72
+C-72
+char anchor name = C
+received from anchor C rssi = -72
+C-70
+char anchor name = C
+received from anchor C rssi = -70
+B-45
+char anchor name = B
+233,-63,-45,-70,#
+received from anchor B rssi = -45
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+A-71
+char anchor name = A
+received from anchor A rssi = -71
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-71
+char anchor name = A
+received from anchor A rssi = -71
+A-71
+char anchor name = A
+received from anchor A rssi = -71
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-60
+char anchor name = B
+234,-60,-60,-56,#
+received from anchor B rssi = -60
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-60
+char anchor name = B
+received from anchor B rssi = -60
+C-65
+char anchor name = C
+235,-55,-60,-65,#
+received from anchor C rssi = -65
+B-60
+char anchor name = B
+received from anchor B rssi = -60
+C-58
+char anchor name = C
+received from anchor C rssi = -58
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+A-55
+char anchor name = A
+236,-55,-55,-58,#
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-63
+char anchor name = C
+received from anchor C rssi = -63
+C-63
+char anchor name = C
+received from anchor C rssi = -63
+B-64
+char anchor name = B
+237,-55,-64,-63,#
+received from anchor B rssi = -64
+B-64
+char anchor name = B
+received from anchor B rssi = -64
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-64
+char anchor name = B
+received from anchor B rssi = -64
+C-63
+char anchor name = C
+238,-55,-64,-63,#
+received from anchor C rssi = -63
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-64
+char anchor name = B
+received from anchor B rssi = -64
+C-75
+char anchor name = C
+239,-55,-64,-75,#
+received from anchor C rssi = -75
+C-75
+char anchor name = C
+received from anchor C rssi = -75
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-57
+char anchor name = B
+240,-54,-57,-75,#
+received from anchor B rssi = -57
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+C-70
+char anchor name = C
+received from anchor C rssi = -70
+A-54
+char anchor name = A
+241,-54,-58,-70,#
+received from anchor A rssi = -54
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+C-75
+char anchor name = C
+received from anchor C rssi = -75
+B-58
+char anchor name = B
+242,-55,-58,-75,#
+received from anchor B rssi = -58
+C-75
+char anchor name = C
+received from anchor C rssi = -75
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-58
+char anchor name = B
+243,-55,-58,-75,#
+received from anchor B rssi = -58
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-68
+char anchor name = C
+244,-54,-58,-68,#
+received from anchor C rssi = -68
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-69
+char anchor name = C
+received from anchor C rssi = -69
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+B-60
+char anchor name = B
+245,-52,-60,-69,#
+received from anchor B rssi = -60
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-67
+char anchor name = C
+246,-55,-61,-67,#
+received from anchor C rssi = -67
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+C-72
+char anchor name = C
+received from anchor C rssi = -72
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-57
+char anchor name = B
+247,-55,-57,-68,#
+received from anchor B rssi = -57
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-67
+char anchor name = C
+248,-54,-58,-67,#
+received from anchor C rssi = -67
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+C-67
+char anchor name = C
+249,-55,-58,-67,#
+received from anchor C rssi = -67
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+B-58
+char anchor name = B
+250,-55,-58,-65,#
+received from anchor B rssi = -58
+C-66
+char anchor name = C
+received from anchor C rssi = -66
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-66
+char anchor name = C
+received from anchor C rssi = -66
+B-59
+char anchor name = B
+251,-55,-59,-66,#
+received from anchor B rssi = -59
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+B-60
+char anchor name = B
+received from anchor B rssi = -60
+A-55
+char anchor name = A
+252,-55,-60,-65,#
+received from anchor A rssi = -55
+B-60
+char anchor name = B
+received from anchor B rssi = -60
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+C-64
+char anchor name = C
+253,-56,-59,-64,#
+received from anchor C rssi = -64
+C-66
+char anchor name = C
+received from anchor C rssi = -66
+B-60
+char anchor name = B
+received from anchor B rssi = -60
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+B-60
+char anchor name = B
+received from anchor B rssi = -60
+B-60
+char anchor name = B
+received from anchor B rssi = -60
+A-55
+char anchor name = A
+254,-55,-60,-65,#
+received from anchor A rssi = -55
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-60
+char anchor name = B
+255,-55,-60,-65,#
+received from anchor B rssi = -60
+B-60
+char anchor name = B
+received from anchor B rssi = -60
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+C-65
+char anchor name = C
+256,-55,-61,-65,#
+received from anchor C rssi = -65
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+A-55
+char anchor name = A
+257,-55,-61,-65,#
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-60
+char anchor name = B
+received from anchor B rssi = -60
+C-64
+char anchor name = C
+258,-55,-60,-64,#
+received from anchor C rssi = -64
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-60
+char anchor name = B
+received from anchor B rssi = -60
+C-64
+char anchor name = C
+259,-55,-60,-64,#
+received from anchor C rssi = -64
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-60
+char anchor name = B
+260,-55,-60,-65,#
+received from anchor B rssi = -60
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+B-60
+char anchor name = B
+261,-55,-60,-65,#
+received from anchor B rssi = -60
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+C-66
+char anchor name = C
+received from anchor C rssi = -66
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-55
+char anchor name = A
+262,-55,-58,-66,#
+received from anchor A rssi = -55
+C-67
+char anchor name = C
+received from anchor C rssi = -67
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-55
+char anchor name = A
+263,-55,-58,-67,#
+received from anchor A rssi = -55
+C-67
+char anchor name = C
+received from anchor C rssi = -67
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-55
+char anchor name = A
+264,-55,-58,-68,#
+received from anchor A rssi = -55
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+A-55
+char anchor name = A
+265,-55,-59,-68,#
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-67
+char anchor name = C
+received from anchor C rssi = -67
+C-66
+char anchor name = C
+received from anchor C rssi = -66
+B-58
+char anchor name = B
+266,-55,-58,-66,#
+received from anchor B rssi = -58
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+C-67
+char anchor name = C
+received from anchor C rssi = -67
+C-67
+char anchor name = C
+received from anchor C rssi = -67
+C-67
+char anchor name = C
+received from anchor C rssi = -67
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+B-58
+char anchor name = B
+267,-56,-58,-67,#
+received from anchor B rssi = -58
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-67
+char anchor name = C
+268,-55,-58,-67,#
+received from anchor C rssi = -67
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+C-67
+char anchor name = C
+received from anchor C rssi = -67
+C-67
+char anchor name = C
+received from anchor C rssi = -67
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-55
+char anchor name = A
+269,-55,-58,-67,#
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+C-68
+char anchor name = C
+270,-56,-58,-68,#
+received from anchor C rssi = -68
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+C-66
+char anchor name = C
+received from anchor C rssi = -66
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+A-53
+char anchor name = A
+271,-53,-59,-66,#
+received from anchor A rssi = -53
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-56
+char anchor name = B
+received from anchor B rssi = -56
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-64
+char anchor name = C
+272,-55,-56,-64,#
+received from anchor C rssi = -64
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+B-57
+char anchor name = B
+273,-55,-57,-62,#
+received from anchor B rssi = -57
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-57
+char anchor name = B
+274,-55,-57,-62,#
+received from anchor B rssi = -57
+B-57
+char anchor name = B
+received from anchor B rssi = -57
+B-57
+char anchor name = B
+received from anchor B rssi = -57
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+C-65
+char anchor name = C
+275,-54,-61,-65,#
+received from anchor C rssi = -65
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-58
+char anchor name = B
+276,-54,-58,-65,#
+received from anchor B rssi = -58
+C-63
+char anchor name = C
+received from anchor C rssi = -63
+B-67
+char anchor name = B
+received from anchor B rssi = -67
+A-55
+char anchor name = A
+277,-55,-67,-63,#
+received from anchor A rssi = -55
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+B-56
+char anchor name = B
+278,-53,-56,-65,#
+received from anchor B rssi = -56
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-54
+char anchor name = B
+279,-55,-54,-65,#
+received from anchor B rssi = -54
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+B-63
+char anchor name = B
+received from anchor B rssi = -63
+A-56
+char anchor name = A
+280,-56,-63,-64,#
+received from anchor A rssi = -56
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-58
+char anchor name = B
+281,-55,-58,-65,#
+received from anchor B rssi = -58
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+A-55
+char anchor name = A
+282,-55,-61,-68,#
+received from anchor A rssi = -55
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-70
+char anchor name = C
+283,-55,-61,-70,#
+received from anchor C rssi = -70
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-64
+char anchor name = C
+284,-55,-58,-64,#
+received from anchor C rssi = -64
+C-63
+char anchor name = C
+received from anchor C rssi = -63
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-54
+char anchor name = A
+285,-54,-58,-63,#
+received from anchor A rssi = -54
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+A-54
+char anchor name = A
+286,-54,-61,-62,#
+received from anchor A rssi = -54
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+C-62
+char anchor name = C
+287,-56,-61,-62,#
+received from anchor C rssi = -62
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-78
+char anchor name = C
+received from anchor C rssi = -78
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-61
+char anchor name = B
+288,-55,-61,-78,#
+received from anchor B rssi = -61
+C-78
+char anchor name = C
+received from anchor C rssi = -78
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+B-59
+char anchor name = B
+289,-52,-59,-62,#
+received from anchor B rssi = -59
+B-66
+char anchor name = B
+received from anchor B rssi = -66
+C-60
+char anchor name = C
+received from anchor C rssi = -60
+A-61
+char anchor name = A
+290,-61,-66,-60,#
+received from anchor A rssi = -61
+B-65
+char anchor name = B
+received from anchor B rssi = -65
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-62
+char anchor name = B
+received from anchor B rssi = -62
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-62
+char anchor name = C
+291,-61,-62,-62,#
+received from anchor C rssi = -62
+C-67
+char anchor name = C
+received from anchor C rssi = -67
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+B-64
+char anchor name = B
+292,-61,-64,-68,#
+received from anchor B rssi = -64
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+C-63
+char anchor name = C
+received from anchor C rssi = -63
+A-66
+char anchor name = A
+received from anchor A rssi = -66
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-63
+char anchor name = C
+received from anchor C rssi = -63
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-63
+char anchor name = B
+293,-61,-63,-63,#
+received from anchor B rssi = -63
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+C-69
+char anchor name = C
+received from anchor C rssi = -69
+A-69
+char anchor name = A
+received from anchor A rssi = -69
+A-69
+char anchor name = A
+received from anchor A rssi = -69
+C-69
+char anchor name = C
+received from anchor C rssi = -69
+A-52
+char anchor name = A
+received from anchor A rssi = -52
+B-62
+char anchor name = B
+294,-52,-62,-69,#
+received from anchor B rssi = -62
+B-67
+char anchor name = B
+received from anchor B rssi = -67
+B-67
+char anchor name = B
+received from anchor B rssi = -67
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+A-52
+char anchor name = A
+295,-52,-67,-62,#
+received from anchor A rssi = -52
+B-67
+char anchor name = B
+received from anchor B rssi = -67
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+A-55
+char anchor name = A
+296,-55,-61,-68,#
+received from anchor A rssi = -55
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+B-57
+char anchor name = B
+received from anchor B rssi = -57
+A-55
+char anchor name = A
+297,-55,-57,-64,#
+received from anchor A rssi = -55
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-73
+char anchor name = B
+298,-55,-73,-65,#
+received from anchor B rssi = -73
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-55
+char anchor name = B
+299,-55,-55,-68,#
+received from anchor B rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+C-65
+char anchor name = C
+received from anchor C rssi = -65
+B-55
+char anchor name = B
+300,-55,-55,-65,#
+received from anchor B rssi = -55
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+C-64
+char anchor name = C
+301,-55,-58,-64,#
+received from anchor C rssi = -64
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-54
+char anchor name = A
+302,-54,-58,-62,#
+received from anchor A rssi = -54
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+B-58
+char anchor name = B
+303,-54,-58,-62,#
+received from anchor B rssi = -58
+B-69
+char anchor name = B
+received from anchor B rssi = -69
+C-63
+char anchor name = C
+received from anchor C rssi = -63
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-55
+char anchor name = A
+304,-55,-52,-63,#
+received from anchor A rssi = -55
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-51
+char anchor name = A
+305,-51,-46,-59,#
+received from anchor A rssi = -51
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+B-50
+char anchor name = B
+306,-57,-50,-59,#
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-57
+char anchor name = A
+307,-57,-50,-59,#
+received from anchor A rssi = -57
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+C-61
+char anchor name = C
+received from anchor C rssi = -61
+B-53
+char anchor name = B
+308,-57,-53,-61,#
+received from anchor B rssi = -53
+A-40
+char anchor name = A
+received from anchor A rssi = -40
+C-61
+char anchor name = C
+received from anchor C rssi = -61
+B-49
+char anchor name = B
+309,-40,-49,-61,#
+received from anchor B rssi = -49
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-64
+char anchor name = C
+310,-54,-49,-64,#
+received from anchor C rssi = -64
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+B-49
+char anchor name = B
+311,-59,-49,-64,#
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-56
+char anchor name = C
+312,-59,-49,-56,#
+received from anchor C rssi = -56
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+C-59
+char anchor name = C
+313,-53,-46,-59,#
+received from anchor C rssi = -59
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+C-53
+char anchor name = C
+314,-63,-46,-53,#
+received from anchor C rssi = -53
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+A-66
+char anchor name = A
+received from anchor A rssi = -66
+C-53
+char anchor name = C
+315,-66,-48,-53,#
+received from anchor C rssi = -53
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-63
+char anchor name = A
+316,-63,-46,-56,#
+received from anchor A rssi = -63
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-47
+char anchor name = B
+317,-58,-47,-56,#
+received from anchor B rssi = -47
+C-58
+char anchor name = C
+received from anchor C rssi = -58
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-47
+char anchor name = B
+318,-58,-47,-59,#
+received from anchor B rssi = -47
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-59
+char anchor name = C
+319,-55,-47,-59,#
+received from anchor C rssi = -59
+C-58
+char anchor name = C
+received from anchor C rssi = -58
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-55
+char anchor name = A
+320,-55,-47,-58,#
+received from anchor A rssi = -55
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-58
+char anchor name = C
+321,-56,-47,-58,#
+received from anchor C rssi = -58
+C-58
+char anchor name = C
+received from anchor C rssi = -58
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+B-47
+char anchor name = B
+322,-57,-47,-58,#
+received from anchor B rssi = -47
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+B-47
+char anchor name = B
+323,-61,-47,-59,#
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+B-47
+char anchor name = B
+324,-59,-47,-59,#
+received from anchor B rssi = -47
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-61
+char anchor name = A
+325,-61,-47,-59,#
+received from anchor A rssi = -61
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-60
+char anchor name = C
+received from anchor C rssi = -60
+B-47
+char anchor name = B
+326,-61,-47,-60,#
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-59
+char anchor name = A
+327,-59,-47,-59,#
+received from anchor A rssi = -59
+C-58
+char anchor name = C
+received from anchor C rssi = -58
+C-58
+char anchor name = C
+received from anchor C rssi = -58
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+B-49
+char anchor name = B
+328,-54,-49,-59,#
+received from anchor B rssi = -49
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-56
+char anchor name = C
+329,-63,-46,-56,#
+received from anchor C rssi = -56
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+330,-61,-47,-56,#
+received from anchor A rssi = -61
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+331,-61,-47,-57,#
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-56
+char anchor name = C
+332,-61,-47,-56,#
+received from anchor C rssi = -56
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+333,-61,-47,-57,#
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-47
+char anchor name = B
+334,-61,-47,-57,#
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+335,-61,-47,-57,#
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-57
+char anchor name = C
+336,-61,-47,-57,#
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+337,-61,-47,-57,#
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+338,-61,-46,-57,#
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-47
+char anchor name = B
+339,-61,-47,-57,#
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-61
+char anchor name = A
+340,-61,-47,-56,#
+received from anchor A rssi = -61
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-47
+char anchor name = B
+341,-61,-47,-56,#
+received from anchor B rssi = -47
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-46
+char anchor name = B
+342,-61,-46,-56,#
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-56
+char anchor name = C
+343,-61,-47,-56,#
+received from anchor C rssi = -56
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+344,-61,-47,-56,#
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-57
+char anchor name = C
+345,-61,-47,-57,#
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-57
+char anchor name = C
+346,-61,-47,-57,#
+received from anchor C rssi = -57
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+347,-61,-46,-57,#
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+348,-61,-47,-57,#
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-46
+char anchor name = B
+349,-61,-46,-57,#
+received from anchor B rssi = -46
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-57
+char anchor name = C
+350,-61,-46,-57,#
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-61
+char anchor name = A
+351,-61,-46,-57,#
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-46
+char anchor name = B
+352,-61,-46,-57,#
+received from anchor B rssi = -46
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-60
+char anchor name = A
+353,-60,-47,-56,#
+received from anchor A rssi = -60
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+354,-61,-47,-57,#
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+355,-61,-47,-57,#
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-57
+char anchor name = C
+356,-61,-47,-57,#
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-47
+char anchor name = B
+357,-61,-47,-57,#
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+358,-61,-47,-57,#
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+359,-61,-47,-56,#
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+360,-61,-47,-57,#
+received from anchor A rssi = -61
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-47
+char anchor name = B
+361,-60,-47,-57,#
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-60
+char anchor name = A
+362,-60,-47,-56,#
+received from anchor A rssi = -60
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+363,-61,-47,-57,#
+received from anchor C rssi = -57
+C-58
+char anchor name = C
+received from anchor C rssi = -58
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-74
+char anchor name = A
+364,-74,-46,-59,#
+received from anchor A rssi = -74
+A-73
+char anchor name = A
+received from anchor A rssi = -73
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-70
+char anchor name = A
+received from anchor A rssi = -70
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+C-59
+char anchor name = C
+365,-64,-47,-59,#
+received from anchor C rssi = -59
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-64
+char anchor name = C
+received from anchor C rssi = -64
+A-64
+char anchor name = A
+366,-64,-48,-64,#
+received from anchor A rssi = -64
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-61
+char anchor name = C
+367,-63,-47,-61,#
+received from anchor C rssi = -61
+C-60
+char anchor name = C
+received from anchor C rssi = -60
+C-60
+char anchor name = C
+received from anchor C rssi = -60
+C-60
+char anchor name = C
+received from anchor C rssi = -60
+A-64
+char anchor name = A
+received from anchor A rssi = -64
+B-49
+char anchor name = B
+368,-64,-49,-60,#
+received from anchor B rssi = -49
+C-58
+char anchor name = C
+received from anchor C rssi = -58
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+B-50
+char anchor name = B
+369,-55,-50,-56,#
+received from anchor B rssi = -50
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+C-58
+char anchor name = C
+received from anchor C rssi = -58
+A-62
+char anchor name = A
+370,-62,-47,-58,#
+received from anchor A rssi = -62
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+B-47
+char anchor name = B
+received from anchor B rssi = -47
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-61
+char anchor name = A
+371,-61,-46,-57,#
+received from anchor A rssi = -61
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-56
+char anchor name = C
+372,-55,-55,-56,#
+received from anchor C rssi = -56
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+B-64
+char anchor name = B
+373,-56,-64,-56,#
+received from anchor B rssi = -64
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+B-57
+char anchor name = B
+received from anchor B rssi = -57
+A-59
+char anchor name = A
+374,-59,-57,-59,#
+received from anchor A rssi = -59
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-79
+char anchor name = A
+received from anchor A rssi = -79
+A-79
+char anchor name = A
+received from anchor A rssi = -79
+B-59
+char anchor name = B
+received from anchor B rssi = -59
+C-59
+char anchor name = C
+375,-79,-59,-59,#
+received from anchor C rssi = -59
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+B-61
+char anchor name = B
+received from anchor B rssi = -61
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+C-66
+char anchor name = C
+376,-60,-58,-66,#
+received from anchor C rssi = -66
+C-66
+char anchor name = C
+received from anchor C rssi = -66
+C-55
+char anchor name = C
+received from anchor C rssi = -55
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-57
+char anchor name = C
+received from anchor C rssi = -57
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+C-60
+char anchor name = C
+received from anchor C rssi = -60
+B-54
+char anchor name = B
+377,-60,-54,-60,#
+received from anchor B rssi = -54
+B-53
+char anchor name = B
+received from anchor B rssi = -53
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-57
+char anchor name = A
+378,-57,-53,-59,#
+received from anchor A rssi = -57
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+C-62
+char anchor name = C
+received from anchor C rssi = -62
+C-56
+char anchor name = C
+received from anchor C rssi = -56
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+A-58
+char anchor name = A
+379,-58,-55,-56,#
+received from anchor A rssi = -58
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+C-60
+char anchor name = C
+received from anchor C rssi = -60
+B-54
+char anchor name = B
+380,-57,-54,-60,#
+received from anchor B rssi = -54
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+C-59
+char anchor name = C
+received from anchor C rssi = -59
+A-58
+char anchor name = A
+381,-58,-52,-59,#
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-68
+char anchor name = C
+382,-55,-52,-68,#
+received from anchor C rssi = -68
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+C-48
+char anchor name = C
+383,-55,-55,-48,#
+received from anchor C rssi = -48
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-55
+char anchor name = B
+384,-55,-55,-50,#
+received from anchor B rssi = -55
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+C-67
+char anchor name = C
+received from anchor C rssi = -67
+C-68
+char anchor name = C
+received from anchor C rssi = -68
+A-54
+char anchor name = A
+385,-54,-55,-68,#
+received from anchor A rssi = -54
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-55
+char anchor name = B
+received from anchor B rssi = -55
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-56
+char anchor name = A
+386,-56,-55,-52,#
+received from anchor A rssi = -56
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-53
+char anchor name = B
+received from anchor B rssi = -53
+A-62
+char anchor name = A
+387,-62,-53,-53,#
+received from anchor A rssi = -62
+A-62
+char anchor name = A
+received from anchor A rssi = -62
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-58
+char anchor name = B
+received from anchor B rssi = -58
+C-52
+char anchor name = C
+388,-58,-58,-52,#
+received from anchor C rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-56
+char anchor name = A
+received from anchor A rssi = -56
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-52
+char anchor name = C
+389,-58,-49,-52,#
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-55
+char anchor name = C
+received from anchor C rssi = -55
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-50
+char anchor name = B
+390,-58,-50,-53,#
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-59
+char anchor name = A
+391,-59,-49,-53,#
+received from anchor A rssi = -59
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-53
+char anchor name = C
+392,-59,-51,-53,#
+received from anchor C rssi = -53
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-59
+char anchor name = A
+393,-59,-50,-54,#
+received from anchor A rssi = -59
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+394,-61,-51,-53,#
+received from anchor C rssi = -53
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-60
+char anchor name = A
+395,-60,-50,-54,#
+received from anchor A rssi = -60
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-60
+char anchor name = A
+396,-60,-50,-54,#
+received from anchor A rssi = -60
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-51
+char anchor name = B
+397,-60,-51,-54,#
+received from anchor B rssi = -51
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+398,-60,-51,-53,#
+received from anchor C rssi = -53
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-53
+char anchor name = C
+399,-58,-51,-53,#
+received from anchor C rssi = -53
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+A-58
+char anchor name = A
+400,-58,-49,-54,#
+received from anchor A rssi = -58
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+C-53
+char anchor name = C
+401,-57,-54,-53,#
+received from anchor C rssi = -53
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-53
+char anchor name = C
+402,-58,-54,-53,#
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-57
+char anchor name = A
+403,-57,-54,-53,#
+received from anchor A rssi = -57
+B-53
+char anchor name = B
+received from anchor B rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-53
+char anchor name = B
+received from anchor B rssi = -53
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+404,-58,-52,-53,#
+received from anchor A rssi = -58
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+405,-58,-52,-53,#
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-58
+char anchor name = A
+406,-58,-52,-53,#
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+407,-58,-52,-53,#
+received from anchor C rssi = -53
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+408,-58,-52,-52,#
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-52
+char anchor name = C
+409,-58,-52,-52,#
+received from anchor C rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-51
+char anchor name = B
+410,-58,-51,-53,#
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+411,-58,-52,-53,#
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-52
+char anchor name = C
+412,-58,-52,-52,#
+received from anchor C rssi = -52
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+413,-59,-52,-53,#
+received from anchor C rssi = -53
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-52
+char anchor name = B
+414,-59,-52,-52,#
+received from anchor B rssi = -52
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-52
+char anchor name = C
+415,-59,-52,-52,#
+received from anchor C rssi = -52
+B-53
+char anchor name = B
+received from anchor B rssi = -53
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-59
+char anchor name = A
+416,-59,-53,-52,#
+received from anchor A rssi = -59
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+417,-58,-52,-52,#
+received from anchor B rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-59
+char anchor name = A
+418,-59,-52,-52,#
+received from anchor A rssi = -59
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+419,-60,-51,-53,#
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-51
+char anchor name = B
+420,-60,-51,-53,#
+received from anchor B rssi = -51
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-59
+char anchor name = A
+421,-59,-51,-53,#
+received from anchor A rssi = -59
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-59
+char anchor name = A
+422,-59,-52,-53,#
+received from anchor A rssi = -59
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-59
+char anchor name = A
+423,-59,-52,-53,#
+received from anchor A rssi = -59
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-52
+char anchor name = B
+424,-60,-52,-53,#
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-60
+char anchor name = A
+425,-60,-52,-53,#
+received from anchor A rssi = -60
+A-60
+char anchor name = A
+received from anchor A rssi = -60
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+426,-60,-52,-53,#
+received from anchor C rssi = -53
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-58
+char anchor name = A
+427,-58,-52,-52,#
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-52
+char anchor name = B
+428,-58,-52,-52,#
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-52
+char anchor name = B
+429,-59,-52,-53,#
+received from anchor B rssi = -52
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+430,-55,-52,-53,#
+received from anchor C rssi = -53
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-51
+char anchor name = B
+431,-59,-51,-53,#
+received from anchor B rssi = -51
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-50
+char anchor name = B
+432,-58,-50,-53,#
+received from anchor B rssi = -50
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-58
+char anchor name = A
+433,-58,-50,-53,#
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+C-53
+char anchor name = C
+434,-59,-52,-53,#
+received from anchor C rssi = -53
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+B-52
+char anchor name = B
+435,-59,-52,-53,#
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-59
+char anchor name = A
+436,-59,-52,-53,#
+received from anchor A rssi = -59
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-59
+char anchor name = A
+received from anchor A rssi = -59
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-53
+char anchor name = C
+437,-58,-51,-53,#
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+438,-58,-52,-53,#
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-53
+char anchor name = B
+received from anchor B rssi = -53
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-59
+char anchor name = A
+439,-59,-52,-53,#
+received from anchor A rssi = -59
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-52
+char anchor name = B
+440,-58,-52,-53,#
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-58
+char anchor name = A
+441,-58,-52,-53,#
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-53
+char anchor name = B
+received from anchor B rssi = -53
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-54
+char anchor name = C
+442,-58,-52,-54,#
+received from anchor C rssi = -54
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+443,-55,-52,-53,#
+received from anchor C rssi = -53
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+A-51
+char anchor name = A
+received from anchor A rssi = -51
+A-51
+char anchor name = A
+received from anchor A rssi = -51
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+C-52
+char anchor name = C
+444,-54,-51,-52,#
+received from anchor C rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-53
+char anchor name = A
+445,-53,-52,-53,#
+received from anchor A rssi = -53
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-52
+char anchor name = C
+446,-54,-52,-52,#
+received from anchor C rssi = -52
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-52
+char anchor name = B
+447,-54,-52,-52,#
+received from anchor B rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-55
+char anchor name = A
+448,-55,-52,-52,#
+received from anchor A rssi = -55
+A-55
+char anchor name = A
+received from anchor A rssi = -55
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-54
+char anchor name = A
+received from anchor A rssi = -54
+B-52
+char anchor name = B
+449,-54,-52,-53,#
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-51
+char anchor name = B
+received from anchor B rssi = -51
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-53
+char anchor name = C
+450,-58,-52,-53,#
+received from anchor C rssi = -53
+C-55
+char anchor name = C
+received from anchor C rssi = -55
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+451,-58,-52,-55,#
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+C-55
+char anchor name = C
+452,-57,-52,-55,#
+received from anchor C rssi = -55
+C-55
+char anchor name = C
+received from anchor C rssi = -55
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-57
+char anchor name = A
+453,-57,-52,-54,#
+received from anchor A rssi = -57
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+454,-58,-52,-54,#
+received from anchor B rssi = -52
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+A-58
+char anchor name = A
+455,-58,-52,-54,#
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-54
+char anchor name = C
+received from anchor C rssi = -54
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-58
+char anchor name = A
+456,-58,-52,-53,#
+received from anchor A rssi = -58
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-53
+char anchor name = C
+457,-58,-52,-53,#
+received from anchor C rssi = -53
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-52
+char anchor name = B
+458,-57,-52,-53,#
+received from anchor B rssi = -52
+A-57
+char anchor name = A
+received from anchor A rssi = -57
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+B-52
+char anchor name = B
+received from anchor B rssi = -52
+C-52
+char anchor name = C
+459,-57,-52,-52,#
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+A-53
+char anchor name = A
+received from anchor A rssi = -53
+A-58
+char anchor name = A
+received from anchor A rssi = -58
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-50
+char anchor name = B
+460,-58,-50,-52,#
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+A-63
+char anchor name = A
+received from anchor A rssi = -63
+C-53
+char anchor name = C
+461,-63,-50,-53,#
+received from anchor C rssi = -53
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-54
+char anchor name = B
+received from anchor B rssi = -54
+C-53
+char anchor name = C
+462,-61,-54,-53,#
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+C-53
+char anchor name = C
+received from anchor C rssi = -53
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-61
+char anchor name = A
+463,-61,-49,-53,#
+received from anchor A rssi = -61
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-49
+char anchor name = C
+received from anchor C rssi = -49
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-48
+char anchor name = B
+received from anchor B rssi = -48
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+A-63
+char anchor name = A
+464,-63,-49,-51,#
+received from anchor A rssi = -63
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+A-61
+char anchor name = A
+received from anchor A rssi = -61
+B-50
+char anchor name = B
+465,-61,-50,-51,#
+received from anchor B rssi = -50
+B-50
+char anchor name = B
+received from anchor B rssi = -50
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-49
+char anchor name = B
+received from anchor B rssi = -49
+A-53
+char anchor name = A
+466,-53,-49,-52,#
+received from anchor A rssi = -53
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-52
+char anchor name = A
+467,-52,-46,-52,#
+received from anchor A rssi = -52
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-52
+char anchor name = A
+468,-52,-46,-52,#
+received from anchor A rssi = -52
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+A-59
+char anchor name = A
+469,-59,-46,-52,#
+received from anchor A rssi = -59
+C-52
+char anchor name = C
+received from anchor C rssi = -52
+C-51
+char anchor name = C
+received from anchor C rssi = -51
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+C-50
+char anchor name = C
+received from anchor C rssi = -50
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+B-46
+char anchor name = B
+received from anchor B rssi = -46
+A-61
+char anchor name = A
+470,-61,-46,-50,#
+received from anchor A rssi = -61
+../../cpu/cc26xx-cc13xx/Makefile.cc26xx-cc13xx:171: recipe for target 'login' failed
