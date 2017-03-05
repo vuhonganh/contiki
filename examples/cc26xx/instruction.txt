@@ -1,2 +1,0 @@
-1) source cmd_alias (do it once each time you open new terminal)
-2) to compile filename.bin: mk filename.bin
